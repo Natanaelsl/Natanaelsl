@@ -1,7 +1,7 @@
 <!--
 <div>
  <img align="right" alt="bay-yoda"
- src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_300x300.gif">
+ src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
 </div>
 -->
 
