@@ -8,7 +8,7 @@
 <!--
 <div>
  <img align="right" alt="bay-yoda"
- src="https://embed.lottiefiles.com/animation/41185">
+ src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_300x300.gif">
 </div>
 -->
 
