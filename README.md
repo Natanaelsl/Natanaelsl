@@ -9,9 +9,9 @@
 🔭 Atualmente trabalho como pesquisador do Observatório do Federalismo Brasileiro - OFB (SEPLAG-CE);
 
 <div> 
-  <a href = "mailto:natanaelsoaresleite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/natanael-soares-003a3b214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://linkedin.com/in/natanael-soares-003a3b214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
 <!--
 🌱 Atualmente aprendendo;
 Hi there, I'm Natanael Soares
@@ -22,30 +22,6 @@ Algum texto
 -->
  
 ##
-<!--
-<div class="container">
-    <div class="row">
-        <div class="col-6">
-            Olá eu sou natanael
-        </div>
-        <div class="col-6">
-            <img align="center" alt="bay-yoda"
-            src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
-        </div>
-     </div>
-</div>
-
-
-<div style="width: 0%; float:left">
- <p>
-  algum texto
- </p>
-</div>
-<div style="width: 50%; float:right">
- <img align="center" alt="bay-yoda"
- src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
-</div>
--->
 
 <div class="skills">
   <a
