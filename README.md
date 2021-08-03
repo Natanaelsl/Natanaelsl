@@ -1,13 +1,17 @@
 
-<img  width = "180px" align = "right" alt="bay-yoda" style="vertical-align:middle; " src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
+<img  width = "180px" align = "right" alt="bay-yoda" style="vertical-align:middle; " src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif"/>
 
 ### Bem-vindo ao meu perfil! 👩‍💻
+<img src="https://komarev.com/ghpvc/?username=Natanaelsl&color=blue" alt="Natanaelsl"/> 
 
 :man_student: Doutorando em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
 
 🔭 Atualmente trabalho como pesquisador do Observatório do Federalismo Brasileiro - OFB (SEPLAG-CE);
 
-
+<div> 
+  <a href = "mailto:natanaelsoaresleite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/natanael-soares-003a3b214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 <!--
 🌱 Atualmente aprendendo;
 Hi there, I'm Natanael Soares
