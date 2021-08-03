@@ -14,12 +14,15 @@
 -->
 # Bem-vindo ao meu perfil!
 <!--
-<div class="col3">
-algum texto para aparecer 
-    
+Hi there, I'm Natanael Soares
+<div class="col2">
+criar um box
 <img align="center" alt="bay-yoda" src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
+
 </div>
 -->
+ 
+
 <!--
 <div class="container">
     <div class="row">
