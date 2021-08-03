@@ -1,5 +1,25 @@
+<!--
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+-->
 # Bem-vindo ao meu perfil!
-
+<!--
+<div class="col3">
+algum texto para aparecer 
+    
+<img align="center" alt="bay-yoda" src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
+</div>
+-->
 <!--
 <div class="container">
     <div class="row">
