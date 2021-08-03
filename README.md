@@ -1,9 +1,5 @@
 # Bem-vindo ao meu perfil!
 
-<img style="float: right;" align="right" src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
-
-Continue markdown text...
-
 <!--
 <div class="container">
     <div class="row">
