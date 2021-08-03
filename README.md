@@ -1,19 +1,15 @@
+
+<img  width = "180px" align = "right" alt="bay-yoda" style="vertical-align:middle; " src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif">
+
+### Bem-vindo ao meu perfil! 👩‍💻
+
+:man_student: Doutorando em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
+
+🔭 Atualmente trabalho como pesquisador do Observatório do Federalismo Brasileiro - OFB (SEPLAG-CE);
+
+
 <!--
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-  .col3 {
-    columns: 3 100px;
-    -webkit-columns: 3 100px;
-    -moz-columns: 3 100px;
-  }
-</style>
--->
-# Bem-vindo ao meu perfil!
-<!--
+🌱 Atualmente aprendendo;
 Hi there, I'm Natanael Soares
 <div class="col2">
 Algum texto
@@ -21,7 +17,7 @@ Algum texto
 </div>
 -->
  
-
+##
 <!--
 <div class="container">
     <div class="row">
