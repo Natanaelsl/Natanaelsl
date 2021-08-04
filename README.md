@@ -1,11 +1,11 @@
 ---
 <img  width = "180px" align = "right" alt="bay-yoda" style="vertical-align:middle; " src="https://github.com/Natanaelsl/Natanaelsl/blob/main/baby-yoda-sticker-4_200x200.gif"/>
 
-### Bem-vindo ao meu perfil! 👩‍💻
+### Bem-vindo ao meu perfil! 👨🏻‍💻
 
 <img src="https://komarev.com/ghpvc/?username=Natanaelsl&color=blue" alt="Natanaelsl"/> 
 
-:man_student: Doutorando em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
+👨🏻‍🎓 Doutorando em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
 
 🔭 Pesquisador do Observatório do Federalismo Brasileiro - OFB (SEPLAG-CE).
 
