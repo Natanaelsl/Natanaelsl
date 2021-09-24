@@ -7,7 +7,7 @@
 
 👨🏻‍🎓 Doutorando em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
 
-🔭 Pesquisador do Observatório do Federalismo Brasileiro - OFB (SEPLAG-CE).
+🔭 Pesquisador do Observatório do Federalismo Brasileiro - [OFB (SEPLAG-CE)](http://observatorio.seplag.ce.gov.br/observatorio/index.php/participantes/).
 
 <div> 
   <a href="https://linkedin.com/in/natanael-soares-003a3b214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
