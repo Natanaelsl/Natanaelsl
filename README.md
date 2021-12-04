@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Natanaelsl&color=blue" alt="Natanaelsl"/> 
 
-👨🏻‍🎓 Doutorando em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
+👨🏻‍🎓 Doutor em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
 
 🔭 Pesquisador do Observatório do Federalismo Brasileiro - [OFB (SEPLAG-CE)](http://observatorio.seplag.ce.gov.br/observatorio/index.php/participantes/).
 
