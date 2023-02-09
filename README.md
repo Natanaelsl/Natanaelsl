@@ -7,7 +7,9 @@
 
 👨🏻‍🎓 Doutor em Economia pelo [CAEN/UFC](https://caen.ufc.br/pt/);
 
-🔭 Pesquisador do Observatório do Federalismo Brasileiro - [OFB (SEPLAG-CE)](http://observatorio.seplag.ce.gov.br/observatorio/index.php/participantes/).
+🔭 Foi pesquisador do Observatório do Federalismo Brasileiro - [OFB (SEPLAG-CE)](http://observatorio.seplag.ce.gov.br/observatorio/index.php/participantes/).
+
+📈 Atualmente é assessor na Secretaria da Economia do Estado de Goiás - [AEMFPF](https://www.economia.go.gov.br/rrf)
 
 <div> 
   <a href="https://linkedin.com/in/natanael-soares-003a3b214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
